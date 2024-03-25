@@ -7,3 +7,5 @@
   - [Data Cleaning](https://github.com/jordanrobertson11/SQLDataCleaning)
 
 <h2> 🤳 Connect with me:</h2>
+
+[LinkedIn](https://www.linkedin.com/in/jordan-robertson-312190245/)
