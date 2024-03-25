@@ -2,4 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
+- <b>SQL</b>
+  - [Data Exploration](https://github.com/jordanrobertson11/SQLDataExploration)
+
 <h2> 🤳 Connect with me:</h2>
