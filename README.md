@@ -3,6 +3,9 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL</b>
+  - [Data Exploration](https://github.com/jordanrobertson11/python-data-exploration)
+
+- <b>SQL</b>
   - [Data Exploration](https://github.com/jordanrobertson11/SQLDataExploration)
   - [Data Cleaning](https://github.com/jordanrobertson11/SQLDataCleaning)
 
