@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>SQL</b>
+- <b>Python</b>
   - [Data Exploration](https://github.com/jordanrobertson11/python-data-exploration)
 
 - <b>SQL</b>
