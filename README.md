@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [Data Exploration](https://github.com/jordanrobertson11/python-data-exploration)
+  - [Data Scraping, Cleaning & Exploration](https://github.com/jordanrobertson11/FRED-analysis-python)
 
 - <b>SQL</b>
   - [Data Exploration](https://github.com/jordanrobertson11/SQLDataExploration)
