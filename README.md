@@ -10,8 +10,11 @@
   - [Data Exploration](https://github.com/jordanrobertson11/SQLDataExploration)
   - [Data Cleaning](https://github.com/jordanrobertson11/SQLDataCleaning)
 
-- <b>Tableau Dashboards</b>
+- <b>Tableau</b>
   - [British Airways Review](https://github.com/jordanrobertson11/BritishAirwaysReviewDashboard)
+ 
+- <b>Excel</b>
+  - [Data Analysis & Dashboard](https://github.com/jordanrobertson11/bike-store-excel-analysis)
 
 <h2> 🤳 Connect with me:</h2>
 
