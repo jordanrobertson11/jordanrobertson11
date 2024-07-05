@@ -8,8 +8,7 @@
 
 - <b>SQL</b>
   - [Data Exploration](https://github.com/jordanrobertson11/SQLDataExploration)
-  - [Data Cleaning - Layoffs](https://github.com/jordanrobertson11/SQLDataCleaningLayoffs)
-  - [Data Cleaning - Nashville Housing](https://github.com/jordanrobertson11/SQLDataCleaning)
+  - [Data Cleaning](https://github.com/jordanrobertson11/SQLDataCleaningLayoffs)
 
 - <b>Tableau</b>
   - [British Airways Review](https://github.com/jordanrobertson11/BritishAirwaysReviewDashboard)
