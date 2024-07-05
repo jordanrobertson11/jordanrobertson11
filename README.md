@@ -14,7 +14,7 @@
   - [Plant Co Performance Report](https://github.com/jordanrobertson11/plantco-performance-report)
 
 - <b>Tableau</b>
-  - [British Airways Review](https://github.com/jordanrobertson11/BritishAirwaysReviewDashboard)
+  - [British Airways Reviews](https://github.com/jordanrobertson11/BritishAirwaysReviewDashboard)
  
 - <b>Excel</b>
   - [Data Analysis & Dashboard](https://github.com/jordanrobertson11/bike-store-excel-analysis)
