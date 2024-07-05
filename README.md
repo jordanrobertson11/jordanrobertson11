@@ -9,6 +9,9 @@
 - <b>SQL</b>
   - [Data Exploration](https://github.com/jordanrobertson11/SQLDataExploration)
   - [Data Cleaning](https://github.com/jordanrobertson11/SQLDataCleaningLayoffs)
+ 
+- <b>Power BI</b>
+  - [Plant Co Performance Report](https://github.com/jordanrobertson11/plantco-performance-report)
 
 - <b>Tableau</b>
   - [British Airways Review](https://github.com/jordanrobertson11/BritishAirwaysReviewDashboard)
