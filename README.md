@@ -1,5 +1,13 @@
 <h1>Hi, I'm Jordan!</h1>
 
+<h2>📈 Finance Projects:</h2>
+
+- <b>DCF Models</b>
+  - [HUB24](https://github.com/jordanrobertson11/HUB24-DCF)
+ 
+- <b>Derivatives</b>
+  - <b>(Coming Soon)</b>
+
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Python</b>
