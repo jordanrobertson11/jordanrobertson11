@@ -5,8 +5,11 @@
 - <b>DCF Models</b>
   - [HUB](https://github.com/jordanrobertson11/HUB24-DCF)
  
+- <b>Trading Comps</b>
+  - [Wallmine.com Web Scraper](https://github.com/jordanrobertson11/Wallmine-Web-Scraper)
+ 
 - <b>Derivatives</b>
-  - <b>(Coming Soon)</b>
+  - [Options Straddle Calculator](https://github.com/jordanrobertson11/Options-Straddle-Calculator)
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
