@@ -6,7 +6,8 @@
   - [HUB](https://github.com/jordanrobertson11/HUB24-DCF)
  
 - <b>Trading Comps</b>
-  - [Wallmine.com Web Scraper](https://github.com/jordanrobertson11/Wallmine-Web-Scraper)
+    - [Wallmine.com Web Scraper 2.0](https://github.com/jordanrobertson11/wallmine-webscraper-2.0)
+      - [Wallmine.com Web Scraper 1.0](https://github.com/jordanrobertson11/Wallmine-Web-Scraper)
  
 - <b>Derivatives</b>
   - [Options Straddle Calculator](https://github.com/jordanrobertson11/Options-Straddle-Calculator)
